@@ -1,7 +1,7 @@
 pragma solidity ^0.4.16;
 
-import Ownable.sol;
-import ExceedIOToken.sol;
+import 'Ownable.sol';
+import 'ExceedIOToken.sol';
 
 
 contract Airdropper is Ownable {
